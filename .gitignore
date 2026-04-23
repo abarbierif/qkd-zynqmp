@@ -1,0 +1,14 @@
+# PetaLinux
+
+plnx-*/.petalinux
+plnx-*/!.petalinux/metadata
+plnx-*/build/
+plnx-*/images/linux
+plnx-*/pre-built/linux
+plnx-*/components/plnx-workspace/
+plnx-*/components/yocto/
+plnx-*/*/*/config.old
+plnx-*/*/*/rootfs_config.old
+plnx-*/*.o
+plnx-*/*.log
+plnx-*/*.jou 
