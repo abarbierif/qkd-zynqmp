@@ -1,5 +1,5 @@
 # Prototipo
 
-- [View Prototype Setup PDF](../figs/prototype_setup.pdf)
+- [View Prototype Setup PDF](../figs/prototype_setup.drawio.pdf)
 
 ![Protype Setup SVG](../figs/prototype_setup.svg)
