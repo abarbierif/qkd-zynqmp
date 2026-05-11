@@ -20,7 +20,7 @@ Este documento contiene información sobre los componentes opto-electrónicos pa
 - [https://www.thorlabs.com/lithium-niobate-electro-optic-modulators-fiber-coupled-1260-nm---1625-nm?tabName=Overview](https://www.thorlabs.com/lithium-niobate-electro-optic-modulators-fiber-coupled-1260-nm---1625-nm?tabName=Overview)
 
 **Phase Modulator**: LN65S-FC
-- 40 GHz Phase Modulator, FC/PC Connectors, 1260 nm - 1625 nm, Small Form Factor Housing
+- 10 GHz Phase Modulator, FC/PC Connectors, 1525 nm - 1605 nm
 - [https://www.thorlabs.com/item/LN65S-FC?aID=b30c756eccc2c2d01e77128fdc1ce23a&aC=2](https://www.thorlabs.com/item/LN65S-FC?aID=b30c756eccc2c2d01e77128fdc1ce23a&aC=2)
 - [Spec Sheet](https://media.thorlabs.com/globalassets/items/l/ln/ln6/ln65s-fc/20866-s01.pdf?v=0116125331)
 - Price: $3,390.83
