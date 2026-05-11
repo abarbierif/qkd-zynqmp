@@ -1,0 +1,231 @@
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D - facil\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D - facil\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D - facil\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D - facil\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D - facil\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D - facil\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D - facil\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\telecom\Desktop\QKD 4dAlice\ALICE_QKD_4D - facil\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software - copia\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software - copia\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software - copia\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software - copia\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software - copia\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software - copia\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software - copia\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice 28enero2016\software - copia\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice29febrero\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice29febrero\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\telecom\Desktop\QKD 4dAlice\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL\Alice29febrero\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL\Alice29febrero\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\telecom\Desktop\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -LASERcONTROL 17MArzo\Alice29febrero\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -15abril\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -15abril\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -15abril\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -15abril\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -15abril\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -15abril\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -15abril\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice -15abril\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice 10agosto\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice 10agosto\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+D:\Importante 2015\archivos csharp good 2015\QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\2016_QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\2016_QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\2016_QKD 4dAlice 10agosto\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\2016_QKD 4dAlice 10agosto\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\2016_QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\2016_QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\2016_QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\2016_QKD 4dAlice 10agosto\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto07nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto07nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto07nov2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto07nov2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto07nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto07nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto07nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto07nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto13nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto13nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto13nov2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto13nov2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto13nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto13nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto13nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto13nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto14nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto14nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto14nov2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto14nov2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto14nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto14nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto14nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto14nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto22nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto22nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto22nov2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto22nov2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto22nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto22nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto22nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto22nov2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto04Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto04Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto04Dic2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto04Dic2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto04Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto04Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto04Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto04Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto19Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto19Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto19Dic2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto19Dic2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto19Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto19Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto19Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto19Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto21Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto21Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto21Dic2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto21Dic2017\software\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto21Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto21Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto21Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\2017_QKD4D\chasis Negra\Proyecto21Dic2017\software\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\prog_cuentas\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\prog_cuentas\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\prog_cuentas\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\prog_cuentas\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\prog_cuentas\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\prog_cuentas\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\prog_cuentas\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\prog_cuentas\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -thomo\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -thomo\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -QRAC\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -QRAC\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -QRAC\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -QRAC\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -QRAC\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -QRAC\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -QRAC\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -QRAC\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -Houmandel\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -Houmandel\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -Houmandel\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -Houmandel\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -Houmandel\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -Houmandel\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -Houmandel\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob -Houmandel\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob - jun2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Proyecto Modulation2018\MDI_rng\Version 16prob - jun2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\Version 16prob - jun2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\Version 16prob - jun2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\QS_04Sept209\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\QS_04Sept209\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\QS_04Sept209\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\QS_04Sept209\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\usuario\Desktop\QS_04Sept209\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\QS_04Sept209\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\usuario\Desktop\QS_04Sept209\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\usuario\Desktop\QS_04Sept209\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\QS_17Dic2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\usuario\Desktop\QS_17Dic2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+D:\Trabajo UDEC\QS_17Dic2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+D:\Trabajo UDEC\QS_17Dic2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+D:\Trabajo UDEC\QS_17Dic2019\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+D:\Trabajo UDEC\QS_17Dic2019\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+D:\Trabajo UDEC\QS_17Dic2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+D:\Trabajo UDEC\QS_17Dic2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+D:\Trabajo UDEC\QS_17Dic2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+D:\Trabajo UDEC\QS_17Dic2019\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+D:\Trabajo UDEC\Control intensidad MZ4 2021\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+D:\Trabajo UDEC\Control intensidad MZ4 2021\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+D:\Trabajo UDEC\Control intensidad MZ4 2021\Soft_ControlMZ4\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+D:\Trabajo UDEC\Control intensidad MZ4 2021\Soft_ControlMZ4\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+D:\Trabajo UDEC\Control intensidad MZ4 2021\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+D:\Trabajo UDEC\Control intensidad MZ4 2021\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+D:\Trabajo UDEC\Control intensidad MZ4 2021\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+D:\Trabajo UDEC\Control intensidad MZ4 2021\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\practica\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.exe
+C:\Users\Leonardo\Desktop\practica\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.pdb
+C:\Users\Leonardo\Desktop\practica\Soft_ControlMZ4\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.exe
+C:\Users\Leonardo\Desktop\practica\Soft_ControlMZ4\ALICE_QKD_4D\bin\Debug\ALICE_QKD_4D.pdb
+C:\Users\Leonardo\Desktop\practica\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\practica\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Form1.resources
+C:\Users\Leonardo\Desktop\practica\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\practica\Soft_ControlMZ4\ALICE_QKD_4D\obj\x86\Debug\ALICE_QKD_4D.csproj.GenerateResource.Cache

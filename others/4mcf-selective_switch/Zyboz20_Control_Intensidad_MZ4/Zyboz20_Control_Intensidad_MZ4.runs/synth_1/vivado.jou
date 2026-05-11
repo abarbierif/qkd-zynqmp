@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.3 (64-bit)
+# SW Build 3173277 on Wed Apr  7 05:07:49 MDT 2021
+# IP Build 3174024 on Wed Apr  7 23:42:35 MDT 2021
+# Start of session at: Wed Oct 19 15:04:59 2022
+# Process ID: 24416
+# Current directory: C:/Users/crist/OneDrive/Escritorio/Zyboz20_Control_Intensidad_MZ4/Zyboz20_Control_Intensidad_MZ4.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: C:/Users/crist/OneDrive/Escritorio/Zyboz20_Control_Intensidad_MZ4/Zyboz20_Control_Intensidad_MZ4.runs/synth_1/top.vds
+# Journal file: C:/Users/crist/OneDrive/Escritorio/Zyboz20_Control_Intensidad_MZ4/Zyboz20_Control_Intensidad_MZ4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
